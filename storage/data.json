@@ -1,0 +1,307 @@
+{
+  "cart": {
+    "3": 10
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "SELENIUM SULFIDE",
+      "description": "Pnctr w fb of r little finger w damage to nail, sequela",
+      "price": "$92509.96"
+    },
+    {
+      "id": 2,
+      "name": "Methylphenidate Hydrochloride",
+      "description": "Insect bite (nonvenomous) of right shoulder, subs encntr",
+      "price": "$71943.28"
+    },
+    {
+      "id": 3,
+      "name": "BuPROPion Hydrochloride",
+      "description": "Unsp inj msl/tnd lng extn msl toe at ank/ft lev, r ft, subs",
+      "price": "$49391.80"
+    },
+    {
+      "id": 4,
+      "name": "epinephrine",
+      "description": "Laceration of superficial vein at shldr/up arm, unsp arm",
+      "price": "$21157.68"
+    },
+    {
+      "id": 5,
+      "name": "Ibuprofen",
+      "description": "Contusion of unsp ring finger w/o damage to nail, sequela",
+      "price": "$26513.27"
+    },
+    {
+      "id": 6,
+      "name": "Allopurinol",
+      "description": "Osteolysis, hand",
+      "price": "$91128.37"
+    },
+    {
+      "id": 7,
+      "name": "Aluminum chlorohydrate",
+      "description": "Disp fx of med condyle of r femr, 7thD",
+      "price": "$61404.22"
+    },
+    {
+      "id": 8,
+      "name": "Antimonium crudum, Apis mellifica, Capsicum annuum, Fucus vesiculosus, Galium aparine, Gambogia, Hamamelis virginiana,",
+      "description": "Adverse effect of barbiturates, initial encounter",
+      "price": "$21997.02"
+    },
+    {
+      "id": 9,
+      "name": "Duloxetin hydrochloride",
+      "description": "Milt op involving oth firearms discharge, civilian, subs",
+      "price": "$98364.40"
+    },
+    {
+      "id": 10,
+      "name": "Homeopathic Liquid",
+      "description": "Other specified disorders of synovium and tendon, other site",
+      "price": "$47224.57"
+    },
+    {
+      "id": 11,
+      "name": "Acetaminophen, Aspirin and caffeine",
+      "description": "Poisoning by peripheral vasodilators, undetermined, subs",
+      "price": "$25473.45"
+    },
+    {
+      "id": 12,
+      "name": "Dihydroergocornine Mesylate, Dihydroergocristine Mesylate, Dihydro-.alpha.-ergocryptine mesylate, and Dihydro-.beta.-ergocryptine mesylate",
+      "description": "Major laceration of right kidney, subsequent encounter",
+      "price": "$59779.18"
+    },
+    {
+      "id": 13,
+      "name": "Triamterene and Hydrochlorothiazide",
+      "description": "Burn of second degree of left shoulder, sequela",
+      "price": "$94384.46"
+    },
+    {
+      "id": 14,
+      "name": "tizanidine hydrochloride",
+      "description": "Superficial foreign body of right upper arm, subs encntr",
+      "price": "$72548.30"
+    },
+    {
+      "id": 15,
+      "name": "Caffeine",
+      "description": "Sltr-haris Type I physeal fx right metatarsal, sequela",
+      "price": "$90742.52"
+    },
+    {
+      "id": 16,
+      "name": "Calamine and Pramoxine Hydrochloride",
+      "description": "Nondisp fx of body of hamate bone, right wrist, init",
+      "price": "$71647.75"
+    },
+    {
+      "id": 17,
+      "name": "Sodium Lactate",
+      "description": "Pedestrian injured nontraf involving oth mv, sequela",
+      "price": "$98783.41"
+    },
+    {
+      "id": 18,
+      "name": "Cilostazol",
+      "description": "Occupant of streetcar injured by fall from streetcar, init",
+      "price": "$66222.34"
+    },
+    {
+      "id": 19,
+      "name": "pravastatin sodium",
+      "description": "Nondisp fx of pisiform, left wrist, subs for fx w routn heal",
+      "price": "$36020.07"
+    },
+    {
+      "id": 20,
+      "name": "OCTINOXATE and TITANIUM DIOXIDE",
+      "description": "Unspecified subluxation of unspecified hip, sequela",
+      "price": "$22231.45"
+    },
+    {
+      "id": 21,
+      "name": "Octinoxate, Octisalate, Oxybenzone",
+      "description": "Congenital absence of ovary, unilateral",
+      "price": "$72200.10"
+    },
+    {
+      "id": 22,
+      "name": "Octinoxate and Oxybenzone",
+      "description": "Matern care for oth or susp poor fetl grth, 2nd tri, unsp",
+      "price": "$69690.27"
+    },
+    {
+      "id": 23,
+      "name": "Mineral oil, White petrolatum",
+      "description": "Perforation due to fb acc left in body following procedure",
+      "price": "$36910.95"
+    },
+    {
+      "id": 24,
+      "name": "Norethindrone and Ethinyl Estradiol Tablets",
+      "description": "Laceration w fb of unsp toe(s) w/o damage to nail, sequela",
+      "price": "$7693.63"
+    },
+    {
+      "id": 25,
+      "name": "Methocarbamol",
+      "description": "Rheumatoid nodule, unspecified wrist",
+      "price": "$24018.00"
+    },
+    {
+      "id": 26,
+      "name": "Ibuprofen",
+      "description": "Nondisp fx of shaft of left clavicle, init for opn fx",
+      "price": "$15858.56"
+    },
+    {
+      "id": 27,
+      "name": "Carduus marianus, Chelidonium majus, Cynara scolymus, Kali carbonicum, Lycopodium, Phosphorus, Taraxacum",
+      "description": "Contus/lac right cerebrum w LOC of 30 minutes or less, init",
+      "price": "$24144.80"
+    },
+    {
+      "id": 28,
+      "name": "Doxycycline Hyclate",
+      "description": "Poisoning by other viral vaccines, assault, subs encntr",
+      "price": "$83788.45"
+    },
+    {
+      "id": 29,
+      "name": "Ibuprofen",
+      "description": "Mech compl of bile duct prosthesis, initial encounter",
+      "price": "$7216.98"
+    },
+    {
+      "id": 30,
+      "name": "OCTINOXATE and TITANIUM DIOXIDE",
+      "description": "Nondisp fx of prox phalanx of l rng fngr, 7thG",
+      "price": "$50398.36"
+    },
+    {
+      "id": 31,
+      "name": "Granisetron Hydrochloride",
+      "description": "Lac w fb of unsp bk wl of thorax w/o penet thor cavity, subs",
+      "price": "$15428.77"
+    },
+    {
+      "id": 32,
+      "name": "Actaea, Aesculus Hipp, Arnica, Bellis, Bryonia, Calc Carb, Calc Fluor, Causticum, Cimicifuga, Formicum Acidum, Hypericum, Ledum, Lithium Carb, Mag Phos, Phosphorus, Phytolacca Decandra, Pulsatilla, Rhododendron, Rhus Tox, Ruta, Salicylicum Acidum, Sepia, Zinc Metallicum",
+      "description": "Drug/chem diab with prolif diab rtnop with mclr edema, l eye",
+      "price": "$37580.38"
+    },
+    {
+      "id": 33,
+      "name": "Echinacea purpurea, Centella asiatica, and Sambucus nigra flowering top",
+      "description": "Open bite of unspecified toe(s) with damage to nail",
+      "price": "$83355.33"
+    },
+    {
+      "id": 34,
+      "name": "benzocaine and pectin",
+      "description": "Encntr for suprvsn of normal first preg, first trimester",
+      "price": "$83226.96"
+    },
+    {
+      "id": 35,
+      "name": "Zinc Oxide",
+      "description": "Lead-induced chronic gout, multiple sites",
+      "price": "$45567.89"
+    },
+    {
+      "id": 36,
+      "name": "TETRACYCLINE HYDROCHLORIDE",
+      "description": "Periprosth osteolysis of internal prosthetic r knee jt, subs",
+      "price": "$79864.98"
+    },
+    {
+      "id": 37,
+      "name": "Pyrithione Zinc",
+      "description": "Degeneration of pupillary margin, left eye",
+      "price": "$35865.74"
+    },
+    {
+      "id": 38,
+      "name": "magnesium sulfate",
+      "description": "Unspecified contact dermatitis due to plants, except food",
+      "price": "$11545.20"
+    },
+    {
+      "id": 39,
+      "name": "Octinoxate and Oxybenzone",
+      "description": "Abrasion, right lesser toe(s)",
+      "price": "$80531.18"
+    },
+    {
+      "id": 40,
+      "name": "quazepam",
+      "description": "Traumatic amputation of hip and thigh, level unspecified",
+      "price": "$52659.44"
+    },
+    {
+      "id": 41,
+      "name": "Sertraline Hydrochloride",
+      "description": "Milt op involving unintent restrict of air/airwy, civilian",
+      "price": "$46302.06"
+    },
+    {
+      "id": 42,
+      "name": "ENALAPRIL MALEATE",
+      "description": "Oth fracture of first lum vertebra, subs for fx w delay heal",
+      "price": "$34246.07"
+    },
+    {
+      "id": 43,
+      "name": "Nitrofurantion Macrocrystals",
+      "description": "Poisoning by aspirin, assault, subsequent encounter",
+      "price": "$7530.11"
+    },
+    {
+      "id": 44,
+      "name": "Sodium Monofluorophosphate",
+      "description": "Encounter for sterilization",
+      "price": "$94277.33"
+    },
+    {
+      "id": 45,
+      "name": "levetiracetam",
+      "description": "Nondisp fx of nk of l rad, 7thF",
+      "price": "$79069.73"
+    },
+    {
+      "id": 46,
+      "name": "Diphenhydramine citrate, Ibuprofen",
+      "description": "3-part fx surg neck of r humerus, subs for fx w routn heal",
+      "price": "$21052.97"
+    },
+    {
+      "id": 47,
+      "name": "chloroprocaine hydrochloride",
+      "description": "Torus fracture of lower end of right ulna, init for clos fx",
+      "price": "$50664.63"
+    },
+    {
+      "id": 48,
+      "name": "Methyl Salicylate, Menthol USP, Camphor",
+      "description": "Medial disloc of proximal end of tibia, right knee, sequela",
+      "price": "$34638.65"
+    },
+    {
+      "id": 49,
+      "name": "Gabapentin",
+      "description": "Malignant neoplasm of acoustic nerve",
+      "price": "$56511.44"
+    },
+    {
+      "id": 50,
+      "name": "morphine sulfate",
+      "description": "Complete traumatic amp at elbow level, right arm, init",
+      "price": "$93947.35"
+    }
+  ]
+}
