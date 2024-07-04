@@ -20,6 +20,9 @@ const ProductService = {
         const cart = productRepository.getCart();
         delete cart[productId];
         productRepository.saveCart(cart);
+    },
+    listCart: () => {
+        return productRepository.getCart();
     }
 }
 

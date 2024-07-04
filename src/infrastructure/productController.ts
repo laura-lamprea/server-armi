@@ -46,9 +46,21 @@ const removeProductFromCart = (req: Request, res: Response, next: NextFunction) 
     }
 };
 
+const listCart = (req: Request, res: Response, next: NextFunction) => {
+    try {
+        const cart = ProductService.listCart();
+        res.status(200).send({ message: "success", data: cart });
+    } catch (error) {
+        res.status(404).json({ message: 'ERROR_CANNOT_GET_CART' });
+        next(error);
+    }
+
+}
+
 export {
     listProducts,
     addProductToCart,
     updateProductQuantity,
-    removeProductFromCart
+    removeProductFromCart,
+    listCart
 };

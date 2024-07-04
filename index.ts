@@ -6,13 +6,13 @@ const app = express();
 app.use(
     cors({
         origin: "*",
-        methods: ["GET", "POST", "PATCH", "DELETE"],
+        methods: ["GET", "POST", "PUT", "DELETE"],
     })
 );
 
 app.use(express.json());
 app.use("/", routes)
 
-app.listen(3000, () => {
-    console.log(`Server listening on port 3000`);
+app.listen(3001, () => {
+    console.log(`Server listening on port 3001`);
 });
